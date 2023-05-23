@@ -2,4 +2,15 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <!-- colors  -->
+    <color name="background_car">#012A4A</color>
+    <color name="background_disable">#A9D6E5</color>
+    <color name="background_app">#2A6F97</color>
+    <color name="subtitle_Text">#89C2D9</color>
+    <color name="accent">#FBFFDC</color>
+    <color name="business_category">#79E0EE</color>
+    <color name="personal_category">#D0F5BE</color>
+    <color name="other_category">#FBFFDC</color>
+
 </resources>
