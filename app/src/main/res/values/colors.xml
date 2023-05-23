@@ -4,7 +4,7 @@
     <color name="white">#FFFFFFFF</color>
 
     <!-- colors  -->
-    <color name="background_car">#012A4A</color>
+    <color name="background_card">#012A4A</color>
     <color name="background_disable">#A9D6E5</color>
     <color name="background_app">#2A6F97</color>
     <color name="subtitle_Text">#89C2D9</color>
